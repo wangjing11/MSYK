@@ -77,8 +77,6 @@
 }
 .line {
 }
-.arrow {
-}
 .droplist {
   color:#000000;
   text-align:left;
@@ -92,7 +90,8 @@
 .html_button {
   text-align:center;
 }
-.table_cell {
+.tree_node {
+  text-align:left;
 }
 ._流程形状 {
 }
@@ -116,8 +115,10 @@
   color:#000000;
   text-align:left;
 }
-.text_area {
-  color:#000000;
+.image {
+}
+.label1 {
+  font-size:14px;
   text-align:left;
 }
 .icon {
